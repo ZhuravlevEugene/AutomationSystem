@@ -1,0 +1,681 @@
+﻿Log file open, 07/08/18 20:38:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: AutomationSystem
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.274136
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.069s to configure plugins.
+LogWindows: Failed to load 'lib/win64/ml_perception_client.dll' (GetLastError=126)
+LogWindows: File 'lib/win64/ml_perception_client.dll' does not exist
+LogWindows: Failed to load 'lib/win64/ml_perception_client.dll' (GetLastError=126)
+LogWindows: File 'lib/win64/ml_perception_client.dll' does not exist
+LogWindows: Failed to load 'lib/win64/ml_graphics.dll' (GetLastError=126)
+LogWindows: File 'lib/win64/ml_graphics.dll' does not exist
+LogWindows: Failed to load 'lib/win64/ml_lifecycle.dll' (GetLastError=126)
+LogWindows: File 'lib/win64/ml_lifecycle.dll' does not exist
+LogWindows: Failed to load 'lib/win64/ml_input.dll' (GetLastError=126)
+LogWindows: File 'lib/win64/ml_input.dll' does not exist
+LogWindows: Failed to load 'lib/win64/ml_secure_storage.dll' (GetLastError=126)
+LogWindows: File 'lib/win64/ml_secure_storage.dll' does not exist
+LogWindows: Failed to load 'lib/win64/ml_identity.dll' (GetLastError=126)
+LogWindows: File 'lib/win64/ml_identity.dll' does not exist
+LogWindows: Failed to load 'lib/win64/ml_privileges.dll' (GetLastError=126)
+LogWindows: File 'lib/win64/ml_privileges.dll' does not exist
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4173640
+LogInit: Engine Version: 4.20.0-4173640+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4173640+++UE4+Release-4.20
+LogInit: Net CL: 4173640
+LogInit: OS: Windows 8.1 (), CPU: Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Jun 29 2018 10:53:58
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.08-17.38.27:848][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.08-17.38.27:849][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.08-17.38.27:857][  0]LogHAL: Display: Platform has ~ 8 GB [7997755392 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.07.08-17.38.27:857][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.07.08-17.38.27:857][  0]LogInit: Going up to parent DeviceProfile []
+[2018.07.08-17.38.27:857][  0]LogInit: Computer: MEGACOMP3000
+[2018.07.08-17.38.27:857][  0]LogInit: User: Мульт
+[2018.07.08-17.38.27:857][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.08-17.38.27:857][  0]LogInit: High frequency timer resolution =2.338345 MHz
+[2018.07.08-17.38.27:857][  0]LogMemory: Memory total: Physical=7.4GB (8GB approx)
+[2018.07.08-17.38.27:857][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.08-17.38.27:857][  0]LogMemory: Process Physical Memory: 98.07 MB used, 98.07 MB peak
+[2018.07.08-17.38.27:857][  0]LogMemory: Process Virtual Memory: 90.90 MB used, 90.90 MB peak
+[2018.07.08-17.38.27:857][  0]LogMemory: Physical Memory: 6067.99 MB used,  1559.26 MB free, 7627.25 MB total
+[2018.07.08-17.38.27:857][  0]LogMemory: Virtual Memory: 491.14 MB used,  1559.26 MB free, 134217728.00 MB total
+[2018.07.08-17.38.27:871][  0]LogInit: Using OS detected language (ru-RU).
+[2018.07.08-17.38.27:871][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.07.08-17.38.27:872][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.07.08-17.38.27:873][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2018.07.08-17.38.27:873][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.08-17.38.27:887][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.08-17.38.27:887][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.08-17.38.28:033][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.08-17.38.28:033][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.08-17.38.28:067][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.07.08-17.38.28:067][  0]LogD3D11RHI:       480/0/1312 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.07.08-17.38.28:095][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GT 750M' (Feature Level 11_0)
+[2018.07.08-17.38.28:095][  0]LogD3D11RHI:       4003/0/3813 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2018.07.08-17.38.28:096][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.08-17.38.28:096][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.08-17.38.28:096][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2018.07.08-17.38.28:101][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.08-17.38.28:101][  0]LogD3D11RHI:     GPU DeviceId: 0xfe4 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.08-17.38.28:101][  0]LogWindows: EnumDisplayDevices:
+[2018.07.08-17.38.28:101][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.07.08-17.38.28:101][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.07.08-17.38.28:102][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.07.08-17.38.28:102][  0]LogWindows:    3. 'NVIDIA GeForce GT 750M' (P:0 D:0)
+[2018.07.08-17.38.28:102][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.07.08-17.38.28:102][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 750M
+[2018.07.08-17.38.28:102][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2018.07.08-17.38.28:102][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2018.07.08-17.38.28:102][  0]LogRHI: Texture pool is 2802 MB (70% of 4003 MB)
+[2018.07.08-17.38.28:127][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2018.07.08-17.38.28:127][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.08-17.38.28:145][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.08-17.38.28:145][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Intermediate/Shaders/WorkingDirectory/2688/).
+[2018.07.08-17.38.28:145][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Мульт/AppData/Local/Temp/UnrealShaderWorkingDir/06AC26EF40E46221F9A520A57655D76D/'.
+[2018.07.08-17.38.28:384][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.08-17.38.28:402][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.08-17.38.28:419][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.08-17.38.28:436][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.08-17.38.28:454][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.08-17.38.28:479][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.08-17.38.28:500][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.08-17.38.28:516][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.08-17.38.28:525][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.08-17.38.28:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:633][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:633][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:633][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:633][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:633][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:633][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:633][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-17.38.28:633][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.08-17.38.28:698][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.08-17.38.28:698][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.08-17.38.28:724][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.08-17.38.28:724][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.08-17.38.28:737][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.08-17.38.28:751][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.08-17.38.28:764][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.08-17.38.28:777][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.08-17.38.28:786][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.07.08-17.38.28:787][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.08-17.38.28:832][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.08-17.38.28:833][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.08-17.38.28:833][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.08-17.38.29:754][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.08-17.38.30:107][  0]LogDerivedDataCache: Loaded boot cache 0.15s 71MB C:/Users/Мульт/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.07.08-17.38.30:107][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Мульт/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.07.08-17.38.30:107][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.08-17.38.30:107][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.08-17.38.30:108][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.08-17.38.30:108][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.08-17.38.30:122][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.08-17.38.30:134][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Мульт/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.08-17.38.30:134][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.08-17.38.30:134][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.08-17.38.30:155][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.08-17.38.30:157][  0]LogSlate: Using FreeType 2.6.0
+[2018.07.08-17.38.30:157][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.08-17.38.30:230][  0]LogAssetRegistry: FAssetRegistry took 0.0276 seconds to start up
+[2018.07.08-17.38.30:559][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.08-17.38.31:033][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.08-17.38.31:035][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.08-17.38.31:035][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.07.08-17.38.31:035][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.08-17.38.31:035][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.08-17.38.31:050][  0]LogNetVersion: AutomationSystem 1.0.0, NetCL: 4173640, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4101724606)
+[2018.07.08-17.38.31:519][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.066030 seconds
+[2018.07.08-17.38.31:526][  0]LogUObjectArray: 38422 objects as part of root set at end of initial load.
+[2018.07.08-17.38.31:526][  0]LogUObjectAllocator: 6690456 out of 0 bytes used by permanent object pool.
+[2018.07.08-17.38.31:526][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.08-17.38.32:309][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.08-17.38.32:322][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.08-17.38.32:489][  0]SourceControl: Source control is disabled
+[2018.07.08-17.38.32:710][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.08-17.38.32:767][  0]LogOcInput: OculusInput pre-init called
+[2018.07.08-17.38.32:825][  0]LogEngine: Initializing Engine...
+[2018.07.08-17.38.32:826][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.08-17.38.32:828][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.07.08-17.38.32:828][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.08-17.38.32:828][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.07.08-17.38.32:828][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.08-17.38.33:107][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.07.08-17.38.33:117][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.08-17.38.33:125][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.08-17.38.33:147][  0]LogInit: FAudioDevice initialized.
+[2018.07.08-17.38.33:147][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.07.08-17.38.33:844][  0]LogDerivedDataCache: Saved boot cache 0.70s 71MB C:/Users/Мульт/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.07.08-17.38.33:850][  0]LogInit: Texture streaming: Enabled
+[2018.07.08-17.38.33:865][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.08-17.38.33:873][  0]LogInit: Transaction tracking system initialized
+[2018.07.08-17.38.33:890][  0]BlueprintLog: New page: Editor Load
+[2018.07.08-17.38.33:958][  0]LocalizationService: Localization service is disabled
+[2018.07.08-17.38.36:372][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.08-17.38.36:372][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.08-17.38.36:372][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.08-17.38.36:372][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.07.08-17.38.36:372][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.08-17.38.36:372][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.07.08-17.38.36:372][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.08-17.38.36:658][  0]LogFileCache: Scanning file cache for directory 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/' took 0.01s
+[2018.07.08-17.38.37:884][  0]Cmd: MAP LOAD FILE="D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.08-17.38.37:884][  0]LightingResults: New page: Lighting Build
+[2018.07.08-17.38.37:886][  0]MapCheck: New page: Map Check
+[2018.07.08-17.38.37:887][  0]LightingResults: New page: Lighting Build
+[2018.07.08-17.39.00:735][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.08-17.39.01:796][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.08-17.39.01:823][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.08-17.39.01:878][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55,291ms to complete.
+[2018.07.08-17.39.01:878][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 23.994
+[2018.07.08-17.39.09:027][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.08-17.39.09:036][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.08-17.39.09:044][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.08-17.39.09:053][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.08-17.39.10:094][  0]LogCollectionManager: Loaded 0 collections in 0.279380 seconds
+[2018.07.08-17.39.10:312][  0]LogFileCache: Scanning file cache for directory 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Collections/' took 0.01s
+[2018.07.08-17.39.10:313][  0]LogFileCache: Scanning file cache for directory 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Developers/Мульт/Collections/' took 0.01s
+[2018.07.08-17.39.10:313][  0]LogFileCache: Scanning file cache for directory 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Collections/' took 0.01s
+[2018.07.08-17.39.10:313][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2018.07.08-17.39.10:576][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2572 classes and 603 folders.
+[2018.07.08-17.39.11:427][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.07.08-17.39.24:920][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.08-17.39.25:027][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.07.08-17.39.25:115][  0]LogProfilerClient: Subscribe Session: 0BEBC65841BBA2260AEDAEB60C63CA87
+[2018.07.08-17.39.25:180][  0]LogProfilerService: Subscribe Session: 0BEBC65841BBA2260AEDAEB60C63CA87, Instance: B6F9C0FF4FF9BDAF40EAB98EB1DC57EC
+[2018.07.08-17.39.25:325][  0]LogSlate: Took 0.142153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.08-17.39.25:411][  0]LogSlate: Took 0.083938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.08-17.39.25:595][  0]LogSlate: Took 0.178377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.08-17.39.25:794][  0]LogRenderer: Reallocating scene render targets to support 1088x564 Format 9 NumSamples 1 (Frame:1).
+[2018.07.08-17.39.26:440][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.08-17.39.26:440][  0]LogLoad: (Engine Initialization) Total time: 59.75 seconds
+[2018.07.08-17.39.26:440][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.08-17.39.26:513][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.08-17.39.26:707][  0]LogSlate: Took 0.068206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.08-17.39.26:709][  0]...Forcing Asset Registry Load For Automation
+[2018.07.08-17.39.26:726][  1]LogAssetRegistry: Asset discovery search completed in 56.5199 seconds
+[2018.07.08-17.39.26:728][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.08-17.39.26:728][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.07.08-17.39.27:894][  1]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2018.07.08-17.39.28:244][  3]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.08-17.39.34:795][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.08-17.39.40:034][495]LogSlate: Took 0.041725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.07.08-17.39.59:851][189]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.08-17.40.00:925][192]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.AutomationSystem
+[2018.07.08-17.40.00:925][192]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.07.08-17.40.00:925][192]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.07.08-17.40.00:925][192]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.07.08-17.40.00:925][192]LogTemp: BranchPath = MEGACOMP3000/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = MEGACOMP3000/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.07.08-17.40.00:925][192]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\?????\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.08-17.41.14:008][674]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AutomationTests/Screenshottest.Screenshottest
+[2018.07.08-17.41.14:658][674]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.07.08-17.41.15:740][674]LogSlate: Took 0.021895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.08-17.41.32:368][610]LogSlate: Took 0.017322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.08-17.41.35:332][782]BlueprintLog: New page: Compile Screenshottest
+[2018.07.08-17.42.06:286][585]LogSlate: Took 0.032348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.08-17.42.30:563][964]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2018.07.08-17.42.30:670][965]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.07.08-17.42.30:670][965]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.08-17.42.30:670][965]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.08-17.42.30:670][965]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.08-17.42.30:697][965]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2018.07.08-17.42.30:734][966]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2018.07.08-17.42.30:786][967]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2018.07.08-17.42.30:965][969]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2018.07.08-17.42.31:021][970]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2018.07.08-17.42.31:072][971]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2018.07.08-17.42.31:117][972]LogMaterial: Display: Missing cached shader map for material Material_7, compiling. 
+[2018.07.08-17.42.33:627][ 82]LogShaderCompilers: Display: Shaders left to compile 312
+[2018.07.08-17.42.33:627][ 82]LogShaderCompilers: Display: Shaders left to compile 302
+[2018.07.08-17.42.33:887][ 96]LogShaderCompilers: Display: Shaders left to compile 292
+[2018.07.08-17.42.35:937][216]LogShaderCompilers: Display: Shaders left to compile 282
+[2018.07.08-17.42.35:989][219]LogShaderCompilers: Display: Shaders left to compile 272
+[2018.07.08-17.42.36:547][252]LogShaderCompilers: Display: Shaders left to compile 262
+[2018.07.08-17.42.36:850][270]LogShaderCompilers: Display: Shaders left to compile 252
+[2018.07.08-17.42.39:135][390]LogShaderCompilers: Display: Shaders left to compile 242
+[2018.07.08-17.42.39:550][415]LogShaderCompilers: Display: Shaders left to compile 232
+[2018.07.08-17.42.39:938][438]LogShaderCompilers: Display: Shaders left to compile 222
+[2018.07.08-17.42.41:191][513]LogShaderCompilers: Display: Shaders left to compile 212
+[2018.07.08-17.42.42:495][590]LogShaderCompilers: Display: Shaders left to compile 202
+[2018.07.08-17.42.42:706][602]LogShaderCompilers: Display: Shaders left to compile 192
+[2018.07.08-17.42.44:040][671]LogShaderCompilers: Display: Shaders left to compile 182
+[2018.07.08-17.42.44:732][712]LogShaderCompilers: Display: Shaders left to compile 172
+[2018.07.08-17.42.44:795][716]LogShaderCompilers: Display: Shaders left to compile 162
+[2018.07.08-17.42.47:207][854]LogShaderCompilers: Display: Shaders left to compile 152
+[2018.07.08-17.42.47:443][868]LogShaderCompilers: Display: Shaders left to compile 142
+[2018.07.08-17.42.47:508][872]LogShaderCompilers: Display: Shaders left to compile 132
+[2018.07.08-17.42.48:281][918]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.07.08-17.42.50:060][ 21]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.07.08-17.42.51:227][ 91]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.07.08-17.42.51:505][108]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.07.08-17.42.52:341][158]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.07.08-17.42.53:367][218]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.07.08-17.42.55:003][314]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.07.08-17.42.55:017][315]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.07.08-17.42.56:333][394]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.07.08-17.42.56:802][422]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.08-17.42.59:168][563]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.08-17.42.59:281][570]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.08-17.42.59:748][598]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.08-17.43.02:710][774]BlueprintLog: New page: Compile Screenshottest
+[2018.07.08-17.43.03:483][777]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Screenshottest5B36611A4DAB919C5ACCCC8FE825471F.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Blueprints/AutomationTests/Screenshottest.uasset'
+[2018.07.08-17.44.15:020][ 38]BlueprintLog: New page: Compile Screenshottest
+[2018.07.08-17.44.15:850][ 57]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Screenshottest13C4DCE54214DF7D06D2A68546375A04.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Blueprints/AutomationTests/Screenshottest.uasset'
+[2018.07.08-17.44.19:189][238]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/FirstPersonExampleMap4657AB004A520E0FEC905BA91C9EED94.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.07.08-17.44.20:818][238]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/FirstPersonExampleMap_BuiltData4C495A1E4AE54E7A8736FEA568654A89.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.07.08-17.44.24:666][463]LogSlate: Window 'Source Control Login' being destroyed
+[2018.07.08-17.44.28:830][700]AutomationTestingLog: New page: -----Test Run 6----
+[2018.07.08-17.44.28:830][700]AutomationTestingLog: -----Test Run 6----
+[2018.07.08-17.44.28:833][700]Display: Running Automation: 'Project.Functional Tests./Game/FirstPersonBP/Maps/FirstPersonExampleMap.Screenshottest' (Class Name: 'FClientFunctionalTestingMapsRuntime /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap;/Game/FirstPersonBP/Maps/FirstPersonExampleMap;Screenshottest_5')
+[2018.07.08-17.44.28:833][700]LogEditor: Starting PIE for the automation tests for world, FirstPersonExampleMap
+[2018.07.08-17.44.28:893][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.08-17.44.28:893][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.08-17.44.28:906][700]PIE: New page: PIE session: FirstPersonExampleMap (8 июля 2018 г., 23:44:28)
+[2018.07.08-17.44.28:906][700]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.08-17.44.28:950][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043621s)
+[2018.07.08-17.44.28:950][700]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.08-17.44.28:951][700]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2018.07.08-17.44.28:951][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.044619s)
+[2018.07.08-17.44.28:981][700]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.08-17.44.28:990][700]LogInit: FAudioDevice initialized.
+[2018.07.08-17.44.28:994][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.08-17.44.29:033][700]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.08-17.44.29:037][700]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.07.08-20.44.29
+[2018.07.08-17.44.29:050][700]LogWorld: Bringing up level for play took: 0.015656
+[2018.07.08-17.44.29:102][700]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.07.08-17.44.29:103][700]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,265
+[2018.07.08-17.44.29:104][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.08-17.44.29:167][701]LogFunctionalTest: Running tests indicated by Repro String: Screenshottest_5
+[2018.07.08-17.44.29:561][710]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.44.29:597][710]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.44.29:685][716]LogBlueprintUserMessages: [Screenshottest_5] Screenshot start!!!
+[2018.07.08-17.44.29:887][716]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.44.30:017][716]AutomationFunctionLibrary: Screenshot captured as D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Automation/FirstPersonExampleMap/Windows/D3D11_SM5/445f2162302f98931e6264beb9f4e777.png
+[2018.07.08-17.44.30:124][716]LogScreenshotFunctionalTest: Screenshot captured as D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Automation/FirstPersonExampleMap/Screenshottest_5/Windows/D3D11_SM5/445f2162302f98931e6264beb9f4e777.png
+[2018.07.08-17.44.30:195][716]AutomationFunctionLibrary: Screenshot captured as D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Automation/FirstPersonExampleMap/Windows/D3D11_SM5/445f2162302f98931e6264beb9f4e777.png
+[2018.07.08-17.44.30:517][716]LogFunctionalTest: Screenshottest_5 Succeeded: "Test finished"
+[2018.07.08-17.44.30:572][719]Warning: New Screenshot '' was discovered!  Please add a ground truth version of it.
+[2018.07.08-17.44.30:572][719]Warning: New Screenshot 'Screenshottest_5' was discovered!  Please add a ground truth version of it.
+[2018.07.08-17.44.30:572][719]...Automation Test Succeeded (Screenshottest)
+[2018.07.08-17.44.30:572][719]AutomationTestingLog: Warning: New Screenshot '' was discovered!  Please add a ground truth version of it.
+[2018.07.08-17.44.30:572][719]AutomationTestingLog: Warning: New Screenshot 'Screenshottest_5' was discovered!  Please add a ground truth version of it.
+[2018.07.08-17.44.30:572][719]AutomationTestingLog: ...Automation Test Succeeded (Screenshottest)
+[2018.07.08-17.44.37:526][134]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.08-17.44.37:526][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.08-17.44.37:541][134]LogSlate: Window 'AutomationSystem Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.08-17.44.37:573][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.08-17.44.37:574][134]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.08-17.44.37:629][136]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.07.08-17.50.29:770][923]BlueprintLog: New page: Compile Screenshottest
+[2018.07.08-17.50.30:665][945]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Screenshottest81D6A67444EBEF890B8ACA804A8892E3.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Blueprints/AutomationTests/Screenshottest.uasset'
+[2018.07.08-17.50.32:343][ 18]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/FirstPersonExampleMap5862FA1A42F587F3E006128C3B0429E2.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.07.08-17.50.32:362][ 18]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.326
+[2018.07.08-17.50.40:977][527]AutomationTestingLog: New page: -----Test Run 8----
+[2018.07.08-17.50.40:977][527]AutomationTestingLog: -----Test Run 8----
+[2018.07.08-17.50.40:979][527]Display: Running Automation: 'Project.Functional Tests./Game/FirstPersonBP/Maps/FirstPersonExampleMap.Screenshottest' (Class Name: 'FClientFunctionalTestingMapsRuntime /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap;/Game/FirstPersonBP/Maps/FirstPersonExampleMap;Screenshottest_5')
+[2018.07.08-17.50.40:979][527]LogEditor: Starting PIE for the automation tests for world, FirstPersonExampleMap
+[2018.07.08-17.50.40:988][527]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.08-17.50.40:988][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.08-17.50.40:989][527]PIE: New page: PIE session: FirstPersonExampleMap (8 июля 2018 г., 23:50:40)
+[2018.07.08-17.50.40:989][527]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.08-17.50.41:007][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018538s)
+[2018.07.08-17.50.41:008][527]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.08-17.50.41:009][527]LogPlayLevel: PIE: World Init took: (0.001315s)
+[2018.07.08-17.50.41:009][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020043s)
+[2018.07.08-17.50.41:047][527]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.08-17.50.41:055][527]LogInit: FAudioDevice initialized.
+[2018.07.08-17.50.41:058][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.08-17.50.41:084][527]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.08-17.50.41:086][527]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.07.08-20.50.41
+[2018.07.08-17.50.41:087][527]LogWorld: Bringing up level for play took: 0.002175
+[2018.07.08-17.50.41:100][527]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,262
+[2018.07.08-17.50.41:100][527]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.08-17.50.41:163][528]LogFunctionalTest: Running tests indicated by Repro String: Screenshottest_5
+[2018.07.08-17.50.41:371][540]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.41:405][540]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.41:577][551]LogBlueprintUserMessages: [Screenshottest_5] Screenshot start!!!
+[2018.07.08-17.50.41:580][551]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.41:582][551]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.41:682][551]LogScreenshotFunctionalTest: Screenshot captured as D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Automation/FirstPersonExampleMap/Screenshottest_5/Windows/D3D11_SM5/445f2162302f98931e6264beb9f4e777.png
+[2018.07.08-17.50.41:700][552]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.41:735][552]LogFunctionalTest: Screenshottest_5 Succeeded: "Test finished"
+[2018.07.08-17.50.41:740][553]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.41:788][554]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.41:790][555]Warning: New Screenshot 'Screenshottest_5' was discovered!  Please add a ground truth version of it.
+[2018.07.08-17.50.41:790][555]...Automation Test Succeeded (Screenshottest)
+[2018.07.08-17.50.41:790][555]AutomationTestingLog: Warning: New Screenshot 'Screenshottest_5' was discovered!  Please add a ground truth version of it.
+[2018.07.08-17.50.41:790][555]AutomationTestingLog: ...Automation Test Succeeded (Screenshottest)
+[2018.07.08-17.50.41:792][555]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.41:794][555]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.41:850][555]AutomationFunctionLibrary: Screenshot captured as D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Automation/FirstPersonExampleMap/ScrenshotTest/Windows/D3D11_SM5/445f2162302f98931e6264beb9f4e777.png
+[2018.07.08-17.50.46:894][851]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.08-17.50.46:894][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.08-17.50.46:908][851]LogSlate: Window 'AutomationSystem Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.08-17.50.46:941][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.08-17.50.46:942][851]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.08-17.50.46:997][853]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.07.08-17.50.58:555][ 94]AutomationTestingLog: New page: -----Test Run 9----
+[2018.07.08-17.50.58:556][ 94]AutomationTestingLog: -----Test Run 9----
+[2018.07.08-17.50.58:558][ 94]Display: Running Automation: 'Project.Functional Tests./Game/FirstPersonBP/Maps/FirstPersonExampleMap.Screenshottest' (Class Name: 'FClientFunctionalTestingMapsRuntime /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap;/Game/FirstPersonBP/Maps/FirstPersonExampleMap;Screenshottest_5')
+[2018.07.08-17.50.58:558][ 94]LogEditor: Starting PIE for the automation tests for world, FirstPersonExampleMap
+[2018.07.08-17.50.58:560][ 94]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.08-17.50.58:560][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.08-17.50.58:560][ 94]PIE: New page: PIE session: FirstPersonExampleMap (8 июля 2018 г., 23:50:58)
+[2018.07.08-17.50.58:560][ 94]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.08-17.50.58:576][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015751s)
+[2018.07.08-17.50.58:577][ 94]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.08-17.50.58:577][ 94]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2018.07.08-17.50.58:577][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016875s)
+[2018.07.08-17.50.58:611][ 94]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.08-17.50.58:617][ 94]LogInit: FAudioDevice initialized.
+[2018.07.08-17.50.58:619][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.08-17.50.58:646][ 94]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.08-17.50.58:649][ 94]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.07.08-20.50.58
+[2018.07.08-17.50.58:649][ 94]LogWorld: Bringing up level for play took: 0.002030
+[2018.07.08-17.50.58:663][ 94]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,175
+[2018.07.08-17.50.58:663][ 94]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.08-17.50.58:708][ 95]LogFunctionalTest: Running tests indicated by Repro String: Screenshottest_5
+[2018.07.08-17.50.58:926][108]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.58:960][108]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.59:130][119]LogBlueprintUserMessages: [Screenshottest_5] Screenshot start!!!
+[2018.07.08-17.50.59:133][119]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.59:135][119]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.59:238][119]LogScreenshotFunctionalTest: Screenshot captured as D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Automation/FirstPersonExampleMap/Screenshottest_5/Windows/D3D11_SM5/445f2162302f98931e6264beb9f4e777.png
+[2018.07.08-17.50.59:389][120]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.59:420][120]LogFunctionalTest: Screenshottest_5 Succeeded: "Test finished"
+[2018.07.08-17.50.59:427][121]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.59:429][121]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.50.59:567][121]AutomationFunctionLibrary: Screenshot captured as D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Automation/FirstPersonExampleMap/ScrenshotTest/Windows/D3D11_SM5/445f2162302f98931e6264beb9f4e777.png
+[2018.07.08-17.50.59:755][122]Warning: New Screenshot 'Screenshottest_5' was discovered!  Please add a ground truth version of it.
+[2018.07.08-17.50.59:755][122]...Automation Test Succeeded (Screenshottest)
+[2018.07.08-17.50.59:755][122]AutomationTestingLog: Warning: New Screenshot 'Screenshottest_5' was discovered!  Please add a ground truth version of it.
+[2018.07.08-17.50.59:755][122]AutomationTestingLog: ...Automation Test Succeeded (Screenshottest)
+[2018.07.08-17.51.01:397][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.08-17.51.01:398][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.08-17.51.01:412][220]LogSlate: Window 'AutomationSystem Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.08-17.51.01:444][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.08-17.51.01:445][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.08-17.51.01:502][222]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.07.08-17.52.29:980][182]LogLinker: Warning: Can't resolve asset name
+[2018.07.08-17.52.34:347][443]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for . Error: Операция успешно завершена. (0x00000000)
+[2018.07.08-17.52.37:303][619]LogDirectoryWatcher: A directory notification for 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Automation/Comparisons/' was aborted.
+[2018.07.08-17.52.47:201][827]LogDirectoryWatcher: A directory notification for 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Automation/Comparisons/' was aborted.
+[2018.07.08-17.54.56:739][299]LogRenderer: Reallocating scene render targets to support 1504x712 Format 9 NumSamples 1 (Frame:1).
+[2018.07.08-17.55.01:156][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.08-17.55.01:655][587]BlueprintLog: New page: Compile Screenshottest
+[2018.07.08-17.55.02:733][607]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/ScreenshottestE19C0CD84CAB5521369560A6926992B0.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Blueprints/AutomationTests/Screenshottest.uasset'
+[2018.07.08-17.55.29:227][157]LogEditorTransaction: Undo Set Class
+[2018.07.08-17.55.29:337][157]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Screenshottest_5.Sprite) Component already registered.
+[2018.07.08-17.55.29:365][157]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_1:PersistentLevel.Screenshottest_C_0.DrawFrustumComponent_0) Component already registered.
+[2018.07.08-17.55.29:367][157]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_1:PersistentLevel.Screenshottest_C_0.RenderComp) Component already registered.
+[2018.07.08-17.55.29:367][157]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_1:PersistentLevel.Screenshottest_C_0.TestName) Component already registered.
+[2018.07.08-17.55.29:368][157]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_1:PersistentLevel.Screenshottest_C_0.Camera) Component already registered.
+[2018.07.08-17.55.29:368][157]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_1:PersistentLevel.Screenshottest_C_0.StaticMeshComponent_0) Component already registered.
+[2018.07.08-17.55.30:454][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.08-17.55.31:996][291]LogEditorTransaction: Undo Modify Component(s)
+[2018.07.08-17.55.32:826][337]LogEditorTransaction: Undo Add Component
+[2018.07.08-17.55.33:356][367]LogEditorTransaction: Undo Add Component Nodes
+[2018.07.08-17.55.33:986][404]LogEditorTransaction: Undo Create Pin Link
+[2018.07.08-17.55.34:352][426]LogEditorTransaction: Undo Create Pin Link
+[2018.07.08-17.55.35:569][499]LogEditorTransaction: Redo Create Pin Link
+[2018.07.08-17.55.35:753][509]LogEditorTransaction: Redo Create Pin Link
+[2018.07.08-17.55.35:903][518]LogEditorTransaction: Redo Add Component Nodes
+[2018.07.08-17.55.36:070][528]LogEditorTransaction: Redo Add Component
+[2018.07.08-17.55.36:076][528]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_Screenshottest) bSelfContext == true, but no scope supplied!
+[2018.07.08-17.55.36:078][528]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_1:PersistentLevel.Screenshottest_C_0.Sprite) Component already registered.
+[2018.07.08-17.55.36:082][528]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Screenshottest_5.Sprite) Component already registered.
+[2018.07.08-17.55.36:231][537]LogEditorTransaction: Redo Modify Component(s)
+[2018.07.08-17.55.36:397][547]LogEditorTransaction: Redo Set Class
+[2018.07.08-17.55.43:170][950]BlueprintLog: New page: Compile Screenshottest
+[2018.07.08-17.55.56:916][731]BlueprintLog: New page: Compile Screenshottest
+[2018.07.08-17.56.05:654][105]LogAIModule: Creating AISystem for world FTEST_TestLevel
+[2018.07.08-17.56.05:694][105]LogAssetEditorManager: Opening Asset editor for World /Game/Blueprints/TestLevels/FTEST_TestLevel.FTEST_TestLevel
+[2018.07.08-17.56.07:710][105]LogSlate: Window 'Save Content' being destroyed
+[2018.07.08-17.56.07:816][105]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Screenshottest19FC3CEA4D6871820E6C95B4E7845C66.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Blueprints/AutomationTests/Screenshottest.uasset'
+[2018.07.08-17.56.08:113][105]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/FirstPersonExampleMap4FBA7B7443044F21948411B4B48B5DAA.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.07.08-17.56.08:131][105]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.314
+[2018.07.08-17.56.08:132][105]Cmd: MAP LOAD FILE="D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Blueprints/TestLevels/FTEST_TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.08-17.56.08:133][105]LightingResults: New page: Lighting Build
+[2018.07.08-17.56.08:133][105]LoadErrors: New page: Loading map: FTEST_TestLevel.umap
+[2018.07.08-17.56.08:134][105]MapCheck: New page: Map Check
+[2018.07.08-17.56.08:134][105]LightingResults: New page: Lighting Build
+[2018.07.08-17.56.08:319][105]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.08-17.56.08:364][105]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.08-17.56.08:416][105]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52,15ms to complete.
+[2018.07.08-17.56.08:416][105]LogFileHelpers: Loading map 'FTEST_TestLevel' took 0.284
+[2018.07.08-17.56.14:001][428]LogEditorViewport: Clicking on Actor (LMB): Screenshottest_C (Screenshottest2)
+[2018.07.08-17.56.31:544][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.08-17.56.31:755][443]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/FTEST_TestLevel8CE45BDD40DBC778D5EEE188ACB1E564.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Blueprints/TestLevels/FTEST_TestLevel.umap'
+[2018.07.08-17.56.31:773][443]LogFileHelpers: Saving map 'FTEST_TestLevel' took 0.144
+[2018.07.08-17.57.04:178][337]LogEditorTransaction: Undo Remove Components
+[2018.07.08-17.57.04:187][337]LogActorComponent: ~FComponentReregisterContext: (/Game/Blueprints/TestLevels/FTEST_TestLevel.FTEST_TestLevel:PersistentLevel.Screenshottest2_8.Sprite) Component already registered.
+[2018.07.08-17.57.05:195][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.08-17.57.06:045][439]BlueprintLog: New page: Compile Screenshottest
+[2018.07.08-17.57.07:254][462]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/ScreenshottestB50260A44B706C91A16222BC57A18357.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Blueprints/AutomationTests/Screenshottest.uasset'
+[2018.07.08-17.58.21:960][828]BlueprintLog: New page: Compile Screenshottest
+[2018.07.08-17.58.23:435][869]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/FTEST_TestLevelD61488DB46FE110CDBCD828508E46AE0.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Blueprints/TestLevels/FTEST_TestLevel.umap'
+[2018.07.08-17.58.23:454][869]LogFileHelpers: Saving map 'FTEST_TestLevel' took 0.143
+[2018.07.08-17.58.23:617][869]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/ScreenshottestD922C3444EDF24CE2EB86AB5C1282CB5.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Blueprints/AutomationTests/Screenshottest.uasset'
+[2018.07.08-17.58.36:251][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.08-17.58.36:720][627]LogDirectoryWatcher: A directory notification for 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Automation/Comparisons/' was aborted.
+[2018.07.08-17.58.43:194][  8]LogProfilerClient: Subscribe Session: 00000000000000000000000000000000
+[2018.07.08-17.58.43:195][  8]LogProfilerClient: Subscribe Session: 00000000000000000000000000000000
+[2018.07.08-17.58.43:199][  8]LogProfilerService: Unsubscribe Session: 0BEBC65841BBA2260AEDAEB60C63CA87, Instance: B6F9C0FF4FF9BDAF40EAB98EB1DC57EC
+[2018.07.08-17.58.49:561][390]LogProfilerClient: Subscribe Session: 0BEBC65841BBA2260AEDAEB60C63CA87
+[2018.07.08-17.58.49:568][390]LogProfilerService: Subscribe Session: 0BEBC65841BBA2260AEDAEB60C63CA87, Instance: B6F9C0FF4FF9BDAF40EAB98EB1DC57EC
+[2018.07.08-17.58.56:734][818]AutomationTestingLog: New page: -----Test Run 13----
+[2018.07.08-17.58.56:734][818]AutomationTestingLog: -----Test Run 13----
+[2018.07.08-17.58.56:736][818]Display: Running Automation: 'Project.Functional Tests./Game/Blueprints/TestLevels/FTEST_TestLevel.ScreenshotFunctionalTest1' (Class Name: 'FClientFunctionalTestingMapsRuntime /Game/Blueprints/TestLevels/FTEST_TestLevel.FTEST_TestLevel;/Game/Blueprints/TestLevels/FTEST_TestLevel;ScreenshotFunctionalTest_1')
+[2018.07.08-17.58.56:736][818]LogEditor: Starting PIE for the automation tests for world, FTEST_TestLevel
+[2018.07.08-17.58.56:742][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.08-17.58.56:742][818]PIE: New page: PIE session: FTEST_TestLevel (8 июля 2018 г., 23:58:56)
+[2018.07.08-17.58.56:742][818]LogPlayLevel: Creating play world package: /Game/Blueprints/TestLevels/UEDPIE_0_FTEST_TestLevel
+[2018.07.08-17.58.56:745][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003311s)
+[2018.07.08-17.58.56:746][818]LogAIModule: Creating AISystem for world FTEST_TestLevel
+[2018.07.08-17.58.56:746][818]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.07.08-17.58.56:746][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/TestLevels/FTEST_TestLevel.FTEST_TestLevel to /Game/Blueprints/TestLevels/UEDPIE_0_FTEST_TestLevel.FTEST_TestLevel (0.004291s)
+[2018.07.08-17.58.56:808][818]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.08-17.58.56:815][818]LogInit: FAudioDevice initialized.
+[2018.07.08-17.58.56:820][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.08-17.58.56:853][818]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.08-17.58.56:856][818]LogWorld: Bringing World /Game/Blueprints/TestLevels/UEDPIE_0_FTEST_TestLevel.FTEST_TestLevel up for play (max tick rate 60) at 2018.07.08-20.58.56
+[2018.07.08-17.58.56:856][818]LogWorld: Bringing up level for play took: 0.001300
+[2018.07.08-17.58.56:871][818]PIE: Play in editor start time for /Game/Blueprints/TestLevels/UEDPIE_0_FTEST_TestLevel 0,033
+[2018.07.08-17.58.56:916][819]LogFunctionalTest: Running tests indicated by Repro String: ScreenshotFunctionalTest_1
+[2018.07.08-17.58.57:131][831]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.58.57:162][831]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.58.57:450][842]LogScreenshotFunctionalTest: Screenshot captured as D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Automation/FTEST_TestLevel/ScreenshotFunctionalTest_1/Windows/D3D11_SM5/445f2162302f98931e6264beb9f4e777.png
+[2018.07.08-17.58.57:633][843]LogFunctionalTest: ScreenshotFunctionalTest_1 Succeeded: "Test finished"
+[2018.07.08-17.58.57:687][846]Warning: New Screenshot 'ScreenshotFunctionalTest_1' was discovered!  Please add a ground truth version of it.
+[2018.07.08-17.58.57:687][846]...Automation Test Succeeded (ScreenshotFunctionalTest1)
+[2018.07.08-17.58.57:687][846]AutomationTestingLog: Warning: New Screenshot 'ScreenshotFunctionalTest_1' was discovered!  Please add a ground truth version of it.
+[2018.07.08-17.58.57:687][846]AutomationTestingLog: ...Automation Test Succeeded (ScreenshotFunctionalTest1)
+[2018.07.08-17.58.57:691][846]Display: Running Automation: 'Project.Functional Tests./Game/Blueprints/TestLevels/FTEST_TestLevel.Screenshottest2' (Class Name: 'FClientFunctionalTestingMapsRuntime /Game/Blueprints/TestLevels/FTEST_TestLevel.FTEST_TestLevel;/Game/Blueprints/TestLevels/FTEST_TestLevel;Screenshottest2_8')
+[2018.07.08-17.58.57:723][848]LogFunctionalTest: Running tests indicated by Repro String: Screenshottest2_8
+[2018.07.08-17.58.57:976][862]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.58.58:004][862]LogContentStreaming: Blocking on texture streaming: 0.0 ms (0 still in flight)
+[2018.07.08-17.58.58:174][873]LogBlueprintUserMessages: [Screenshottest2_8] Screenshot start!!!
+[2018.07.08-17.58.58:174][873]PIE: Error: A camera is required to TakeAutomationScreenshotAtCamera
+[2018.07.08-17.58.58:280][873]LogScreenshotFunctionalTest: Screenshot captured as D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/Automation/FTEST_TestLevel/Screenshottest2_8/Windows/D3D11_SM5/445f2162302f98931e6264beb9f4e777.png
+[2018.07.08-17.58.58:321][874]LogFunctionalTest: Screenshottest2_8 Succeeded: "Test finished"
+[2018.07.08-17.58.58:368][877]Error: A camera is required to TakeAutomationScreenshotAtCamera
+[2018.07.08-17.58.58:368][877]Warning: New Screenshot 'Screenshottest2_8' was discovered!  Please add a ground truth version of it.
+[2018.07.08-17.58.58:368][877]...Automation Test Failed (Screenshottest2)
+[2018.07.08-17.58.58:368][877]AutomationTestingLog: Error: A camera is required to TakeAutomationScreenshotAtCamera
+[2018.07.08-17.58.58:368][877]AutomationTestingLog: Warning: New Screenshot 'Screenshottest2_8' was discovered!  Please add a ground truth version of it.
+[2018.07.08-17.58.58:368][877]AutomationTestingLog: Error: ...Automation Test Failed (Screenshottest2)
+[2018.07.08-17.59.04:853][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.08-17.59.04:866][113]LogSlate: Window 'AutomationSystem Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.08-17.59.04:903][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.08-17.59.05:018][115]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.07.08-17.59.12:762][561]BlueprintLog: New page: Compile Screenshottest
+[2018.07.08-17.59.18:072][820]LogEditorViewport: Clicking on Actor (LMB): Screenshottest_C (Screenshottest2)
+[2018.07.08-17.59.18:876][861]LogEditorViewport: Clicking on Actor (CTRL LMB): ScreenshotFunctionalTest (ScreenshotFunctionalTest1)
+[2018.07.08-17.59.19:729][906]Cmd: DELETE
+[2018.07.08-17.59.19:729][906]Cmd: ACTOR DELETE
+[2018.07.08-17.59.19:747][906]LogEditorActor: Deleted Actor: Screenshottest_C
+[2018.07.08-17.59.19:775][906]LogEditorActor: Deleted Actor: ScreenshotFunctionalTest
+[2018.07.08-17.59.19:833][906]LogEditorActor: Deleted 2 Actors (0.103 secs)
+[2018.07.08-17.59.21:639][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.08-17.59.21:862][  8]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/FTEST_TestLevel9E1F3DDD40987F4ED50B35B36204F6F7.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Blueprints/TestLevels/FTEST_TestLevel.umap'
+[2018.07.08-17.59.21:920][  8]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/FTEST_TestLevel_BuiltDataC565E35843D3FEE978CF398C9426B879.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Blueprints/TestLevels/FTEST_TestLevel_BuiltData.uasset'
+[2018.07.08-17.59.22:766][ 51]LogSavePackage: Moving 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Saved/ScreenshottestF9E3A65043408F3D6ACF0AA54E6C0CC6.tmp' to 'D:/Mult/Projects/Other/UnrealProjects/AutomationSystem/AutomationSystem/AutomationSystem/Content/Blueprints/AutomationTests/Screenshottest.uasset'
+[2018.07.08-20.08.24:154][795]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.07.08-20.08.44:630][796]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:146 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_RESET
+[2018.07.08-20.08.44:630][796]LogRHI: Error: [Aftermath] GFSDK_Aftermath_GetDeviceStatus failed with result: 0xBAD00007
+[2018.07.08-20.08.44:630][796]LogD3D11RHI: [Aftermath] Stopped
+[2018.07.08-20.08.44:630][796]LogD3D11RHI: [Aftermath] GDynamicRHI=0000006A166C6180, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2018.07.08-20.08.44:630][796]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2018.07.08-20.10.05:880][796]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
